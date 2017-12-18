@@ -1,0 +1,12 @@
+body{
+    background: url("http://wallpaper.pickywallpapers.com/1920x1080/subtle-blue-pattern.jpg")
+}
+.row{
+    margin-top: 20px;
+    padding-left: 30px;
+}
+container{
+    background: white; opacity: 0.5;
+    padding-left: 20%;
+    
+}
